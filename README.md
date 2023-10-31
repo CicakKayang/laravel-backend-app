@@ -14,11 +14,11 @@
 - Kelas  : DB
 
 ## Branch
-main
+ main
 -  Meet 3 - Laravel 10, Template Stisla, Fortify, Login, Register, Email Verify, Forgot Password
-laravel-authorization
+ laravel-authorization
 -  Meet 4 - Laravel Authorize, User Role,, Update Profile, Password, List User, Pagination, Search
-laravel-api
+ laravel-api
 -  Meet 5 - Laravel API CRUD Category, Product, Auth Login, Authorization with Policy
 
 ## About Laravel
