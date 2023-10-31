@@ -13,6 +13,10 @@
 - NIM    : 201240001067
 - Kelas  : DB
 
+-  Meet 3 : Laravel 10, Template Stisla, Fortify, Login, Register, Email Verify, Forgot Password
+-  Meet 4 : Laravel Authorize, User Role,, Update Profile, Password, List User, Pagination, Search
+-  Meet 5 : Laravel API CRUD Category, Product, Auth Login, Authorization with Policy
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
