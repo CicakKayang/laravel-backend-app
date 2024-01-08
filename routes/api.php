@@ -42,4 +42,8 @@ Route::post('midtrans/notification/handling', [CallbackController::class, 'callb
 Route::apiResource('categories', CategoryController::class);
 Route::apiResource('products', ProductController::class)->middleware('auth:sanctum');
 Route::apiResource('products', ProductController::class);
+
+// route for update fcm token
+Route::post('fcm-token', [AuthController::class, 'updateFcmToken'])
+    ->middleware('auth:sanctum');
 Route::apiResource('banners', BannerController::class);
